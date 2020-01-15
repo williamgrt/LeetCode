@@ -1,2 +1,2 @@
 # LeetCode
-The solutions for leetcode
+> 记录LeetCode的刷题记录
