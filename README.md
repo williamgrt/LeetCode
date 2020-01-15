@@ -21,10 +21,8 @@
 
 ### Hot 100
 
+| # | 题目 | 难度 |
+| :--: | :--: | :--: |
+| 1 | 两数之和 | easy |
+
 ### Top Interview Questions
-
-### Easy
-
-### Medium
-
-### Hard
