@@ -24,5 +24,6 @@
 | # | 题目 | 难度 |
 | :-: | :---: | :--: |
 | 1 | 两数之和 | easy |
+| 3 | 无重复字符的最长子串 | medium |
 
 ### Top Interview Questions
