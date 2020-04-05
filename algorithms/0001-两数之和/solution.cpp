@@ -12,6 +12,8 @@ public:
         result.push_back(j);
         return result;
       } else {
+        // 添加当前的数
+        // 如果当前数已经在哈希表中存在，直接忽略
         if (cnt.count(nums[i]) == 0) {
           cnt.insert(nums[i]);
         }
