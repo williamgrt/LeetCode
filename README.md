@@ -1,5 +1,5 @@
 ## LeetCode
-> 记录LeetCode的刷题记录
+> 力扣（LeetCode中国）刷题记录
 
 ### Introduction
 
