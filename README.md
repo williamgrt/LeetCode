@@ -1,7 +1,7 @@
-## LeetCode
+# LeetCode
 > 力扣（LeetCode中国）刷题记录
 
-### Introduction
+## Introduction
 
 主要涉及到的数据结构```Data Structure```:
 
@@ -19,15 +19,20 @@
 * 动态规划
 * 贪心算法
 
-### 剑指offer
-
-
-### Hot 100
+## 剑指offer
 
 | # | 题目 | 难度 | 题解 | 代码 |
 | :-: | :----: | :----: | :----: | :----: |
-| 1 | 两数之和 | easy | [题解](algorithms/0001-两数之和/0001.md) | [代码](algorithms/0001-两数之和/solution.cpp) |
-| 2 | 两数相加 | medium | 题解 | 代码 |
-| 3 | 无重复字符的最长子串 | medium | 题解 | 代码 |
+
+## Hot 100
+
+| # | 题目 | 难度 | 题解 |
+| :-: | :----: | :----: | :----: |
+| 1 | 两数之和 | easy | [题解](algorithms/0001.md) |
+| 2 | 两数相加 | medium | [题解](algorithms/0002/0002.md) |
+| 3 | 无重复字符的最长子串 | medium | [题解](algorithms/0003/0003.md) |
 
 ### Top Interview Questions
+
+| # | 题目 | 难度 | 题解 | 代码 |
+| :-: | :----: | :----: | :----: | :----: |
