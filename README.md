@@ -34,6 +34,7 @@
 |   1   |       两数之和       |  easy  | [题解](algorithms/0001.md) |
 |   2   |       两数相加       | medium | [题解](algorithms/0002.md) |
 |   3   | 无重复字符的最长子串 | medium | [题解](algorithms/0003.md) |
+|  62   |       不同路径       | medium | [题解](algorithms/0062.md) |
 |  72   |       编辑距离       |  hard  | [题解](algorithms/0072.md) |
 |  198  |       打家劫舍       |  easy  | [题解](algorithms/0198.md) |
 |  287  |      寻找重复数      | medium | [题解](algorithms/0287.md) |
@@ -48,7 +49,13 @@
 
 ## 所有题解
 
-|   #   |   题目   |  难度  |            题解            |
-| :---: | :------: | :----: | :------------------------: |
-|   1   | 两数之和 |  easy  | [题解](algorithms/0001.md) |
-|   2   | 两数相加 | medium | [题解](algorithms/0002.md) |
+|   #   |         题目         |  难度  |            题解            |
+| :---: | :------------------: | :----: | :------------------------: |
+|   1   |       两数之和       |  easy  | [题解](algorithms/0001.md) |
+|   2   |       两数相加       | medium | [题解](algorithms/0002.md) |
+|   3   | 无重复字符的最长子串 | medium | [题解](algorithms/0003.md) |
+|  62   |       不同路径       | medium | [题解](algorithms/0062.md) |
+|  72   |       编辑距离       |  hard  | [题解](algorithms/0072.md) |
+|  198  |       打家劫舍       |  easy  | [题解](algorithms/0198.md) |
+|  287  |      寻找重复数      | medium | [题解](algorithms/0287.md) |
+|  560  |    和为K的子数组     | medium | [题解](algorithms/0560.md) |
