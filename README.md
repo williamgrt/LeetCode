@@ -43,6 +43,7 @@
 |  64   |      最小路径和      | medium | [题解](algorithms/0064.md) |
 |  72   |       编辑距离       |  hard  | [题解](algorithms/0072.md) |
 |  101  |      对称二叉树      |  easy  | [题解](algorithms/0101.md) |
+|  101  |       单词拆分       | medium | [题解](algorithms/0139.md) |
 |  198  |       打家劫舍       |  easy  | [题解](algorithms/0198.md) |
 |  287  |      寻找重复数      | medium | [题解](algorithms/0287.md) |
 |  560  |    和为K的子数组     | medium | [题解](algorithms/0560.md) |
