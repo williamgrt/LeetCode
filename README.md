@@ -41,6 +41,8 @@
 |  10  |    正则表达式匹配    |  hard  | [题解](algorithms/0010.md) |
 |  11  |    盛水最多的容器    | medium |            []()            |
 |  15  |       三数之和       | medium | [题解](algorithms/0015.md) |
+|  32  |     最长有效括号     |  hard  |          [题解]()          |
+|      |                      |        |                            |
 |  53  |      最大子序和      |  easy  | [题解](algorithms/0053.md) |
 |  62  |       不同路径       | medium | [题解](algorithms/0062.md) |
 |  64  |      最小路径和      | medium | [题解](algorithms/0064.md) |
@@ -70,6 +72,7 @@
 |  3   | 无重复字符的最长子串 | medium | [题解](algorithms/0003.md) |
 |  15  |       三数之和       | medium | [题解](algorithms/0015.md) |
 |  16  |   最接近的三数之和   | medium | [题解](algorithms/0016.md) |
+|  44  |      通配符匹配      |  hard  |                            |
 |  53  |      最大子序和      |  easy  | [题解](algorithms/0053.md) |
 |  62  |       不同路径       | medium | [题解](algorithms/0062.md) |
 |  72  |       编辑距离       |  hard  | [题解](algorithms/0072.md) |
