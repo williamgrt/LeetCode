@@ -30,7 +30,7 @@
 | 面试题68-I  | 二叉搜索树的最近公共祖先 | easy | [题解](剑指offer/面试题68-I.md)  |
 | 面试题68-II |   二叉树的最近公共祖先   | easy | [题解](剑指offer/面试题68-II.md) |
 
-## 热题 Hot 100
+## LeetCode
 
 |  #   |         题目         |  难度  |            题解            |
 | :--: | :------------------: | :----: | :------------------------: |
@@ -42,7 +42,6 @@
 |  11  |    盛水最多的容器    | medium |            []()            |
 |  15  |       三数之和       | medium | [题解](algorithms/0015.md) |
 |  32  |     最长有效括号     |  hard  |          [题解]()          |
-|      |                      |        |                            |
 |  53  |      最大子序和      |  easy  | [题解](algorithms/0053.md) |
 |  62  |       不同路径       | medium | [题解](algorithms/0062.md) |
 |  64  |      最小路径和      | medium | [题解](algorithms/0064.md) |
@@ -52,32 +51,7 @@
 | 141  |       环形链表       |  easy  |            []()            |
 | 198  |       打家劫舍       |  easy  | [题解](algorithms/0198.md) |
 | 236  | 二叉树的最近公共祖先 | medium | [题解](algorithms/0236.md) |
-| 287  |      寻找重复数      | medium | [题解](algorithms/0287.md) |
-| 560  |    和为K的子数组     | medium | [题解](algorithms/0560.md) |
-| 739  |       每日温度       | medium | [题解](algorithms/0739.md) |
-
-## 精选 Top 面试题
-
-|   #   |   题目   |  难度  |            题解            |
-| :---: | :------: | :----: | :------------------------: |
-|   1   | 两数之和 |  easy  | [题解](algorithms/0001.md) |
-|   2   | 两数相加 | medium | [题解](algorithms/0002.md) |
-
-## 所有题解
-
-|  #   |         题目         |  难度  |            题解            |
-| :--: | :------------------: | :----: | :------------------------: |
-|  1   |       两数之和       |  easy  | [题解](algorithms/0001.md) |
-|  2   |       两数相加       | medium | [题解](algorithms/0002.md) |
-|  3   | 无重复字符的最长子串 | medium | [题解](algorithms/0003.md) |
-|  15  |       三数之和       | medium | [题解](algorithms/0015.md) |
-|  16  |   最接近的三数之和   | medium | [题解](algorithms/0016.md) |
-|  44  |      通配符匹配      |  hard  |                            |
-|  53  |      最大子序和      |  easy  | [题解](algorithms/0053.md) |
-|  62  |       不同路径       | medium | [题解](algorithms/0062.md) |
-|  72  |       编辑距离       |  hard  | [题解](algorithms/0072.md) |
-| 179  |        最大数        | medium | [题解](algorithms/0179.md) |
-| 198  |       打家劫舍       |  easy  | [题解](algorithms/0198.md) |
 | 277  |       搜寻名人       | medium | [题解](algorithms/0277.md) |
 | 287  |      寻找重复数      | medium | [题解](algorithms/0287.md) |
 | 560  |    和为K的子数组     | medium | [题解](algorithms/0560.md) |
+| 739  |       每日温度       | medium | [题解](algorithms/0739.md) |
